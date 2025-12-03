@@ -1,4 +1,3 @@
-# blood-cell-classificator
 # Blood Cell Classification using MLNN and CNN
 
 ## Models and Tools
